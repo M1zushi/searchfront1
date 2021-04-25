@@ -1,0 +1,19 @@
+#type {
+    height: 20px;
+    width: 400px;
+    background-color: lightcyan;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 50%;
+    right: 600px;
+}
+
+#search {
+    height: 25px;
+    width: 125px;
+    background-color: lavender;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 50%;
+    right: 450px;
+}
