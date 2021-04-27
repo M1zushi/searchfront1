@@ -1,21 +1,21 @@
 #Google {
     font-family: system-ui, arial;
     font-size: 145px;
-    color: white;
+    color: ghostwhite;
     text-align: center;
 }
 
 body {
-    background-image: linear-gradient(to right, dimgray, honeydew);
+    background-image: linear-gradient(to right, dodgerblue, indianred);
 }
 
 #type {
     height: 20px;
     width: 400px;
-    background-color: lightcyan;
+    background-color: ghostwhite;
     font-family: system-ui, arial;
     position: absolute;
-    top: 55%;
+    top: 52.5%;
     right: 600px;
 }
 
@@ -23,9 +23,9 @@ body {
 #search {
     height: 25px;
     width: 125px;
-    background-color: lavender;
+    background-color: transparent;
     font-family: system-ui, arial;
     position: absolute;
-    top: 55%;
+    top: 52.5%;
     right: 450px;
 }
