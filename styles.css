@@ -29,3 +29,37 @@ body {
     top: 52.5%;
     right: 450px;
 }
+
+#Lucky {
+    height: 25px;
+    width: 125px;
+    color: ghostwhite;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 55%;
+    right: 450px;
+}
+
+#Gmail {
+    height: 25px;
+    width: 125px;
+    color: ghostwhite;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 5%;
+    right: 915px;
+}
+
+#Images {
+    height: 25px;
+    width: 125px;
+    color: ghostwhite;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 5%;
+    right: 885px;
+}
+
+.Apps {
+    /* Will recreate the apps icon with css just because */
+}
