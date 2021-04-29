@@ -30,24 +30,15 @@ body {
     right: 450px;
 }
 
-#Lucky {
-    height: 25px;
-    width: 125px;
-    color: ghostwhite;
-    font-family: system-ui, arial;
-    position: absolute;
-    top: 55%;
-    right: 450px;
-}
-
 #Gmail {
     height: 25px;
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
+    font-size: 18px;
     position: absolute;
-    top: 5%;
-    right: 915px;
+    top: -6.5px;
+    right: 90px;
 }
 
 #Images {
@@ -55,9 +46,24 @@ body {
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
+    font-size: 18px;
     position: absolute;
-    top: 5%;
-    right: 885px;
+    top: -13px;
+    right: 30px;
+}
+
+.doodles {
+
+}
+
+#Lucky {
+    height: 25px;
+    width: 200px;
+    color: ghostwhite;
+    font-family: system-ui, arial;
+    position: absolute;
+    top: 56%;
+    right: 630px;
 }
 
 .Apps {
