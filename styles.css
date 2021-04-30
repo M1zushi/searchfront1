@@ -16,7 +16,7 @@ body {
     font-family: system-ui, arial;
     position: absolute;
     top: 52.5%;
-    right: 600px;
+    right: 590px;
 }
 
 /* Will make this a magnifying glass as soon as I know how to */
@@ -27,7 +27,7 @@ body {
     font-family: system-ui, arial;
     position: absolute;
     top: 52.5%;
-    right: 450px;
+    right: 440px;
 }
 
 #Gmail {
@@ -52,20 +52,65 @@ body {
     right: 30px;
 }
 
-.doodles {
-
-}
-
 #Lucky {
-    height: 25px;
-    width: 200px;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 20px;
     color: ghostwhite;
     font-family: system-ui, arial;
     position: absolute;
-    top: 56%;
-    right: 630px;
+    top: 60%;
+    right: 625px;
 }
 
-.Apps {
-    /* Will recreate the apps icon with css just because */
+/* .Apps {
+    Will recreate the apps icon with css just because
+} */
+
+.one {
+    background-color: ghostwhite;
+    border-radius: 50%;
+    /* position: absolute;
+    top: -5px;
+    right: 15px; */
+}
+
+.two {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.three {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.four {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.five {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.six {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.seven {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.eight {
+    background-color: ghostwhite;
+    border-radius: 50%;
+}
+
+.nine {
+    background-color: ghostwhite;
+    border-radius: 50%;
 }
