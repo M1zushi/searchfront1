@@ -35,10 +35,10 @@ body {
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
-    font-size: 18px;
+    font-size: 18.5px;
     position: absolute;
     top: -6.5px;
-    right: 90px;
+    right: 80px;
 }
 
 #Images {
@@ -46,10 +46,10 @@ body {
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
-    font-size: 18px;
+    font-size: 18.5px;
     position: absolute;
     top: -13px;
-    right: 30px;
+    right: 20px;
 }
 
 #Lucky {
@@ -59,7 +59,7 @@ body {
     color: ghostwhite;
     font-family: system-ui, arial;
     position: absolute;
-    top: 60%;
+    top: 58%;
     right: 625px;
 }
 
@@ -68,49 +68,91 @@ body {
 } */
 
 .one {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
-    /* position: absolute;
-    top: -5px;
-    right: 15px; */
+    position: absolute;
+    top: 10px;
+    right: 55px;
 }
 
 .two {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 45px;
 }
 
 .three {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 35px;
 }
 
 .four {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    right: 55px;
 }
 
 .five {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    right: 45px;
 }
 
 .six {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    right: 35px;
 }
 
 .seven {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    right: 55px;
 }
 
 .eight {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    right: 45px;
 }
 
 .nine {
-    background-color: ghostwhite;
+    background: ghostwhite;
+    height: 8px;
+    width: 8px;
     border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    right: 35px;
 }
