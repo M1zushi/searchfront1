@@ -31,25 +31,28 @@ body {
 }
 
 #Gmail {
+    text-decoration: none;
     height: 25px;
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
     font-size: 18.5px;
+    font-weight: 400;
     position: absolute;
-    top: -6.5px;
-    right: 80px;
+    top: 11px;
+    right: 68px;
 }
 
 #Images {
+    text-decoration: none;
     height: 25px;
     width: 125px;
     color: ghostwhite;
     font-family: system-ui, arial;
     font-size: 18.5px;
     position: absolute;
-    top: -13px;
-    right: 20px;
+    top: 11px;
+    right: 10px;
 }
 
 #Lucky {
@@ -68,49 +71,49 @@ body {
 } */
 
 .one {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 10px;
-    right: 55px;
+    top: 12px;
+    right: 53px;
 }
 
 .two {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 10px;
+    top: 12px;
     right: 45px;
 }
 
 .three {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 10px;
-    right: 35px;
+    top: 12px;
+    right: 37px;
 }
 
 .four {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
     top: 20px;
-    right: 55px;
+    right: 53px;
 }
 
 .five {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
     top: 20px;
@@ -118,41 +121,41 @@ body {
 }
 
 .six {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
     top: 20px;
-    right: 35px;
+    right: 37px;
 }
 
 .seven {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 30px;
-    right: 55px;
+    top: 28px;
+    right: 53px;
 }
 
 .eight {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 30px;
+    top: 28px;
     right: 45px;
 }
 
 .nine {
-    background: ghostwhite;
-    height: 8px;
-    width: 8px;
+    background: whitesmoke;
+    height: 6px;
+    width: 6px;
     border-radius: 50%;
     position: absolute;
-    top: 30px;
-    right: 35px;
+    top: 28px;
+    right: 37px;
 }
